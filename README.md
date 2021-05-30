@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CalledCracki
-I am a passionate game (and hopefully soon professional) app developer.
+I am a passionate (hopefully soon professional) app and game developer.
 
 
