@@ -21,7 +21,7 @@
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=oracle)
 ![CSharp](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
 
 <br>
 
