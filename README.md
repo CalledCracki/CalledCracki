@@ -35,7 +35,6 @@
 <br>
 
 ### IDE's
-
 ![Atom](https://img.shields.io/badge/Atom-black?style=for-the-badge&logo=Atom&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-black?style=for-the-badge&logo=visual%20studio&logoColor=purple)
