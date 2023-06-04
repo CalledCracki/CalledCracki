@@ -5,7 +5,7 @@ I am a passionate (hopefully soon professional) app and game developer.
 
 <h2>Currently working on</h2>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CalledCracki&repo=SkyblockRemake&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CalledCracki&repo=Aimazing&theme=dark)
 
 
 
