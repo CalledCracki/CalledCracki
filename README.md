@@ -12,9 +12,9 @@
     <a href="">
         <img src="https://img.shields.io/badge/Patreon-black?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
     </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/fiverr-black?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
-    </a>
+<a href="https://www.fiverr.com/s/R4pNXL">
+    <img src="https://img.shields.io/badge/fiverr-000000?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
+</a>
 </p>
 
 ### Languages
@@ -39,14 +39,6 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-black?style=for-the-badge&logo=visual%20studio&logoColor=purple)
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
-
-<br>
-
-### Fiverr
-
-<a href="https://www.fiverr.com/s/R4pNXL">
-    <img src="https://img.shields.io/badge/fiverr-000000?style=for-the-badge&logo=fiverr&logoColor=white">
-</a>
 
 ![Cracki's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalledCracki&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalledCracki&theme=dark)
 
