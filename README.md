@@ -4,6 +4,7 @@
     <i>
         I'm CalledCracki.<br>
         I am a passionate (and hopefully soon professional) App and Game Developer.<br>
+        Most of my repos are plugins for the sandbox game Minecraft.<br>
         Feel free to look around on my profile ;).<br>
     </i><br>
     <a href="">
